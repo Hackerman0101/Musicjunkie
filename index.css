@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    text-align: center;
+   
+  
+}
+
+h1{
+    color: #bb0a1e;
+    font-size: 50px ;
+}
+h2{
+    color: white
+}
+
+h3{
+    color: white
+}
+
+h4{
+    color: white;
+    font-family: Calibri;
+    font-size: 19.5px;
+    font-variant: small-caps;
+    font-weight: 500;
+    line-height: 26.4px;   
+}
+
+h5{
+    color: white;
+    font-size: 25px;
+    margin-left: -60px;
+}
+
+h6{
+    color: white;
+    font-family: calibri;
+    font-size: 15px;
+    font-variant: small-caps;
+    margin-right: -10px;
+    
+}
+
+
